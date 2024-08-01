@@ -7,3 +7,4 @@ venv/
 id_ed25519
 02-open-source/ollama_files/id_ed25519.pub
 02-open-source/ollama_files/id_ed25519
+.env
