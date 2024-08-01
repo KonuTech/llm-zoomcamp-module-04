@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv
+.openai_api_key
+.vscode/
+venv/
+id_ed25519
+02-open-source/ollama_files/id_ed25519.pub
+02-open-source/ollama_files/id_ed25519
